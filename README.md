@@ -46,5 +46,3 @@ Benchmarking approaches for **AI-generated and manipulated media detection**.
 
 **Systems**  
 `MCP` · `Tool Calling` · `Docker` · `ROS 2`
-">Portfolio</a>
-</p>
