@@ -12,7 +12,7 @@ Interested in **Agentic AI · LLMs · Multimodal AI · Robotics · Autonomous Sy
 
 **AI Engineer**
 
-Working on production AI systems, agentic workflows, tool calling, MCP infrastructure, and LLM applications.
+Working on production AI systems, multi agentic workflows, Harness, MCP infrastructure, and LLM applications.
 
 **IIT Kanpur**
 
@@ -39,10 +39,10 @@ Benchmarking approaches for **AI-generated and manipulated media detection**.
 ## Technical Stack
 
 **Languages**  
-`Python` · `C++`
+`Python` · `C++`, `Typescript`
 
 **AI / ML**  
 `PyTorch` · `LLMs` · `Computer Vision` · `Multimodal AI` · `AI Agents`
 
 **Systems**  
-`MCP` · `Tool Calling` · `Docker` · `ROS 2`
+`MCP` · `Docker` · `ROS 2`
