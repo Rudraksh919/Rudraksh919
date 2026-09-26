@@ -4,7 +4,7 @@
 
 ### Undergraduate · IIT Kanpur
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+agents+%26+LLM+applications;Agentic+AI+%C2%B7+Multimodal+AI+%C2%B7+Robotics;Give+me+a+computer%2C+I'll+take+it+apart+first)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+agents+%26+LLM+applications;Agentic+AI+%C2%B7+Multimodal+AI+%C2%B7+Robotics)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rudraksh919.github.io-58A6FF?style=flat-square)](https://rudraksh919.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rudrakshk919-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudrakshk919/)
