@@ -2,7 +2,7 @@
 
 # Hi, I'm Rudraksh Kumawat 👋
 
-### AI Engineer · IIT Kanpur
+### Undergraduate · IIT Kanpur
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+agents+%26+LLM+applications;Agentic+AI+%C2%B7+Multimodal+AI+%C2%B7+Robotics;Give+me+a+computer%2C+I'll+take+it+apart+first)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@
 
 ### About me
 
-I build **AI agents, LLM applications, and intelligent systems**, with a focus on practical, production-ready solutions. Currently an **AI Engineer**, working on production AI systems, multi-agent workflows, and MCP infrastructure — and **Robotics Club Coordinator** at IIT Kanpur.
+I build **AI agents, LLM applications, and intelligent systems**, with a focus on practical, production-ready solutions. Previously interned as an **AI Engineer**, working on production AI systems, multi-agent workflows, and MCP infrastructure — currently **Robotics Club Coordinator** at IIT Kanpur.
 
 - 🔭 Interested in **Agentic AI · LLMs · Multimodal AI · Robotics · Autonomous Systems**
 - 🎓 Undergraduate at **IIT Kanpur**
