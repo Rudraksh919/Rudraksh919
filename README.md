@@ -17,7 +17,7 @@
 
 ### About me
 
-I build **AI agents, LLM applications, and intelligent systems**, with a focus on practical, production-ready solutions. Previously interned as an **AI Engineer**, working on production AI systems, multi-agent workflows, and MCP infrastructure — currently **Robotics Club Coordinator** at IIT Kanpur.
+I build **AI agents, LLM applications, and intelligent systems**, with a focus on practical, production-ready solutions. Previously interned as an **AI Engineer**, working on production AI systems, multi-agent workflows, and MCP infrastructure.
 
 - 🔭 Interested in **Agentic AI · LLMs · Multimodal AI · Robotics · Autonomous Systems**
 - 🎓 Undergraduate at **IIT Kanpur**
