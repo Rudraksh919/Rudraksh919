@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rudraksh Kumawat 👋
+# Hi, I'm Rudraksh Kumawat
 
 ### Undergraduate · IIT Kanpur
 
