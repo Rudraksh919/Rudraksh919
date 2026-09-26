@@ -46,13 +46,3 @@ I build **AI agents, LLM applications, and intelligent systems**, with a focus o
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
----
-
-<div align="center">
-
-![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rudraksh919&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudraksh919&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rudraksh919&theme=github-dark-blue&hide_border=true)
-
-</div>
