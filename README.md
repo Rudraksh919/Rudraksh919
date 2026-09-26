@@ -20,7 +20,7 @@
 I build **AI agents, LLM applications, and intelligent systems**, with a focus on practical, production-ready solutions. Previously interned as an **AI Engineer**, working on production AI systems, multi-agent workflows, and MCP infrastructure.
 
 - 🔭 Interested in **Agentic AI · LLMs · Multimodal AI · Robotics · Autonomous Systems**
-- 🤖 Builds **autonomous robots** — ground vehicles and navigation stacks (IGVC-Bot, AutoNav)
+- 🤖 Builds **autonomous robots** ground vehicles and navigation stacks
 - 🎓 Undergraduate at **IIT Kanpur**
 
 ---
